@@ -1,0 +1,16 @@
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.exe
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.deps.json
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.runtimeconfig.json
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.runtimeconfig.dev.json
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.dll
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.pdb
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\School_Logic.dll
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\bin\Debug\netcoreapp3.1\School_Logic.pdb
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.csprojAssemblyReference.cache
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.AssemblyInfoInputs.cache
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.AssemblyInfo.cs
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.csproj.CoreCompileInputs.cache
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.csproj.CopyComplete
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.dll
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.pdb
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\EXERCISE9_SCHOOL\obj\Debug\netcoreapp3.1\EXERCISE9_SCHOOL.genruntimeconfig.cache

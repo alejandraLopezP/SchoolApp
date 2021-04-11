@@ -1,0 +1,9 @@
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\bin\Debug\netcoreapp3.1\School_Logic.deps.json
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\bin\Debug\netcoreapp3.1\School_Logic.dll
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\bin\Debug\netcoreapp3.1\School_Logic.pdb
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\obj\Debug\netcoreapp3.1\School_Logic.csprojAssemblyReference.cache
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\obj\Debug\netcoreapp3.1\School_Logic.AssemblyInfoInputs.cache
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\obj\Debug\netcoreapp3.1\School_Logic.AssemblyInfo.cs
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\obj\Debug\netcoreapp3.1\School_Logic.csproj.CoreCompileInputs.cache
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\obj\Debug\netcoreapp3.1\School_Logic.dll
+C:\Users\allop\source\Repos\EXERCISE9_SCHOOL\School_Logic\obj\Debug\netcoreapp3.1\School_Logic.pdb
